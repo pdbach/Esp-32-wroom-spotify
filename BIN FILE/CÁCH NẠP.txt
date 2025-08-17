@@ -1,0 +1,5 @@
+FILE BOOTLOADER CÁC BẠN SẼ NẠP VÔ ĐỊA CHỈ 0X1000 CỦA ESP 32
+FILE PATITIONS SẼ NẠP VÔ ĐỊA CHỈ 0X8000 CỦA ESP 32 
+FILE CHÍNH CÒN LẠI SẼ NẠP VÔ 0X10000 CỦA ESP 32
+CÁC BẠN SẼ VÔ WEB: https://esptool.spacehuhn.com/
+CHÚC CÁC BẠN THÀNH CÔNG!!!!!!!
